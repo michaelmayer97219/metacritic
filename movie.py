@@ -138,6 +138,6 @@ def createBS(url):
 	return BeautifulSoup(raw)
 
 
-getScores('under-the-skin', 20)
+getScores('wish-i-was-here', 20)
 
 #into-the-abyss
